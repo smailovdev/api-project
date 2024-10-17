@@ -17,7 +17,7 @@
 Клонируйте проект с GitHub:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/smailovdev/api-project.git
 
 ```
 
